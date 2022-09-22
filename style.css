@@ -1,0 +1,27 @@
+.titulo{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 23px;
+  font-style: italic;
+}
+
+#pesquisar{
+  padding:15px;
+  border-radius: 10px;
+  height: 40px;
+  width: 350px;
+  font-style: italic;
+}
+
+#list-item{
+  font-size: 17px;
+}
+
+.logo-nome{
+  font-family: 'Noto Sans', sans-serif;
+  width: 300px;
+  font-style: italic;
+}
+
+.logo-image{
+  margin-bottom: 20px;
+}
