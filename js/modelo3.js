@@ -4,7 +4,7 @@ async function consultarDados(){
     
     try {
         // Carrega os dados do JSON local
-        const response = await fetch('/js/db.json');
+        const response = await fetch('../js/db.json');
         const data = await response.json();
 
         // Procura pelo registro
