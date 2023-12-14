@@ -14,10 +14,10 @@
         <h1>Assinaturas NextVision</h1>
         <h2>Busque abaixo pelo seu nome</h2>
     <div style="margin-bottom: 20px; display: flex; justify-content: center; border-radius: 10px; background-color: rgb(122, 121, 121); width: 400px; color: white;  ">
-        <form id="meuFormulario">
+        <form id="meuFormulario"  onsubmit="event.preventDefault(); acionarInput()">
             <label for="consultaNome">Nome:</label>
-            <input style="margin: 20px;" type="text" id="consultaNome" name="consultaNome">
-            <input type="button" value="Consultar" onclick="consultarDados()">
+            <input style="margin: 20px;" type="text" id="consultaNome" onkeypress="acionarInput(event)" name="consultaNome">
+            <input type="button" value="Consultar" onclick="consultarDados()" id="botao">
         </form>
     </div>
         <section  >
