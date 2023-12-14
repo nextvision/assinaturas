@@ -37,16 +37,17 @@ h1,h2{
     margin-right: 20px;
 }
  
+
+.containerTexto{
+    background-color: rgb(158, 153, 153);
+}
  
 .texto{
-    font-size: 9px;
-    width: 489px;
-    background-color: rgb(158, 153, 153);
-    color: white;
-    height: 67px;
-    margin: 10px 0px 0px 0px;
-    text-align: center;
-    display: inline-block; 
+    font-size: 10px;
+    width: 475px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    display: inline-block;
    
 }
  

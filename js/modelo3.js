@@ -43,4 +43,12 @@ function exibirDados(registro){
     document.getElementById('telefone').innerText = registro.telefone;
     document.getElementById('telefone2').innerText = registro.telefone2;
     document.getElementById('cargo').innerText = registro.cargo
+
+    if(cargo.textContent.trim() === ''){
+        document.getElementById('cargo').style.display = 'none'
+
+    }else{
+        document.getElementById('cargo').innerText = registro.cargo
+    }
 }
+ 

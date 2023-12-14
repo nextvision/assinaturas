@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "nome": "Andre Nakagome",
+        "nome": "André Nakagome",
         "cargo":"",
         "email": "andre@nextvision.com.br",
         "telefone": "+55 11 5575 6468",
@@ -90,7 +90,7 @@
     {
         "id": 12,
         "nome": "Pedro Henrique Avelino Santos",
-        "cargo": "Assistente Desenvolvimento",
+        "cargo": "Assist. Dev",
         "email": "pedro@nextvision.com.br",
         "telefone": "(11) 95950 9779",
         "telefone2": ""
