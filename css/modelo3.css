@@ -46,8 +46,7 @@ h1,h2{
     height: 67px;
     margin: 10px 0px 0px 0px;
     text-align: center;
-    display: inline-block;
-    border-radius: 0 0 10px 10px ;
+    display: inline-block; 
    
 }
  
