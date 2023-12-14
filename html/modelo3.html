@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/modelo3.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <title>Document</title>
+</head>
+<body style="background-color: #384141;">
+    <article >
+        <h1>Assinaturas NextVision</h1>
+        <h2>Busque abaixo pelo seu nome</h2>
+    <div style="margin-bottom: 20px; display: flex; justify-content: center; border-radius: 10px; background-color: rgb(122, 121, 121); width: 400px; color: white;  ">
+        <form id="meuFormulario">
+            <label for="consultaNome">Nome:</label>
+            <input style="margin: 20px;" type="text" id="consultaNome" name="consultaNome">
+            <input type="button" value="Consultar" onclick="consultarDados()">
+        </form>
+    </div>
+        <section  >
+            <div style="display: flex; margin-top: 8px; margin-bottom: 5px;">
+                <div>
+                    <img class="logo" src="https://media.licdn.com/dms/image/C4D0BAQGNYyyYE3zMCQ/company-logo_200_200/0/1630514023377/nextvision_sistemas_digitais_de_televis_o_ltda_logo?e=2147483647&v=beta&t=ahGgUfQ0VApydaxxs8IgEfvAF5Mm25ZxqWjETP64GT4" alt="">
+                     
+                </div>
+                <div style="width: 285px; margin-left: 10px;">
+                    <div style="border-bottom: 1px solid red; ">
+                        <p class="nome" id="nome"></p>
+                        <p class="cargo" id="cargo"></p>
+                    </div>
+                    <p class="email" id="email"></p> 
+                    <p class="telefone" id="telefone"></p>
+                    <p class="telefone" id="telefone2"></p>
+                   
+                </div>
+            </div>
+            <p class="texto">Em respeito à Lei Geral de Proteção de Dados Pessoais (LGPD) – Lei nº 13.709/2018, temos o dever legal de proteger todas as informações que recebemos.
+                As informações contidas neste e-mail e quaisquer anexos podem ser privilegiadas ou confidenciais e destinadas ao uso exclusivo do seu destinatário
+                original. Caso esteja recebendo este e-mail por engano, pedimos que nos avise prontamente e exclua o e-mail e seus anexos, considere que
+                qualquer uso, cópia ou divulgação das informações nela contidas são proibidas e serão tratadas nos termos da LGPD.
+            </p> 
+        </section>
+    </article>
+    <script src="/js/modelo3.js"></script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+section{
+    width: 489px;
+    height: 219px;
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    border-radius: 0 0 10px 10px;
+}
+
+article{
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    align-items: center;
+     
+}
+
+h1,h2{
+    color: white;
+} 
+
+.logo{
+    width: 155px;
+    height: 135px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.midias{
+    width: 20px;
+    margin: 10px;
+}
+
+.containerMidias{
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+ 
+ 
+.texto{
+    font-size: 9px;
+    width: 489px;
+    background-color: rgb(158, 153, 153);
+    color: white;
+    height: 67px;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 0 0 10px 10px ;
+   
+}
+ 
+.nome{ 
+    margin-bottom: 0px;
+    font-size: 18px;
+    width: 250px;
+     
+}
+
+.email{
+    margin: 10px 0px 10px 0px;
+}
+
+.cargo{
+    font-size: 13px;
+    width: 100%;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.telefone{
+     
+    font-size: 13px;
+    width: 120px;
+    height: 13px;
+    margin: 5px 0px 5px 0px;
+}
+
+ 
