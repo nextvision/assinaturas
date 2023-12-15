@@ -19,11 +19,10 @@ h1,h2{
 } 
 
 .logo{
-    width: 140px;
-    height: 135px;
-    margin-right: 20px;
-    margin-left: 20px;
-    margin-top: 0px;
+    width: 100%;
+    height: 76%;
+    object-fit: cover;
+    object-position: center;
 }
 
 .midias{
@@ -47,8 +46,7 @@ h1,h2{
     width: 470px;
     color: rgb(255, 255, 255);
     margin: 9px;
-    display: inline-block;
-   
+    display: inline-block; 
 }
  
 .nome{ 
@@ -59,7 +57,8 @@ h1,h2{
 }
 
 .email{
-    margin: 10px 0px 10px 0px;
+    margin: 3px 0px 5px 0px;
+
 }
 
 .cargo{
