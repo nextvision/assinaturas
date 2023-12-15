@@ -1,4 +1,5 @@
-document.getElementById('consultaNome').addEventListener('keyup', acionarInput);
+document.getElementById('consultaNome').addEventListener('keyup', acionarInput); 
+
 
 async function acionarInput(event) {
     // Verifica se a tecla pressionada é "Enter" (código 13)
