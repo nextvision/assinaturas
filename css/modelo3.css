@@ -19,10 +19,10 @@ h1,h2{
 } 
 
 .logo{
-    width: 100%;
-    height: 76%;
-    object-fit: cover;
-    object-position: center;
+    width: 191px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 5px;
 }
 
 .midias{
