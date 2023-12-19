@@ -43,10 +43,11 @@ h1,h2{
  
 .texto{
     font-size: 10px;
-    width: 470px;
+    width: 460px;
     color: rgb(255, 255, 255);
     margin: 9px;
-    display: inline-block; 
+    display: inline-block;
+    font-weight: bold;
 }
  
 .nome{ 
