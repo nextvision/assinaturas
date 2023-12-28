@@ -39,11 +39,12 @@ h1,h2{
 
 .containerTexto{
     background-color: rgb(158, 153, 153);
+    width: 489px;
 }
  
 .texto{
     font-size: 10px;
-    width: 460px;
+    width: 469px;
     color: rgb(255, 255, 255);
     margin: 9px;
     display: inline-block;
