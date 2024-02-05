@@ -90,7 +90,7 @@
     {
         "id": 12,
         "nome": "Pedro Henrique Avelino Santos",
-        "cargo": "Assist. Dev",
+        "cargo": "",
         "email": "pedro@nextvision.com.br",
         "telefone": "+55 11 95950 9779",
         "telefone2": ""
@@ -134,5 +134,13 @@
         "email": "daniel@nextvision.com.br",
         "telefone": "+55 11 5575-6468",
         "telefone2": "+55 11 94783-0663"
+    },
+    {
+        "id": 18,
+        "nome": "Misleny Oliveira",
+        "cargo":"",
+        "email": "misleny-partner@nextvision.com.br",
+        "telefone": "+55 62 99449-2122",
+        "telefone2": ""
     }
 ]
