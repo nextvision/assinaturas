@@ -142,5 +142,13 @@
         "email": "misleny-partner@nextvision.com.br",
         "telefone": "+55 62 99449-2122",
         "telefone2": ""
+    },
+    {
+        "id": 19,
+        "nome": "Junior Lima",
+        "cargo":"",
+        "email": "junior.lima@nextvision.com.br",
+        "telefone": "+55 15 98142-6521",
+        "telefone2": ""
     }
 ]
