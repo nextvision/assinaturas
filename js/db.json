@@ -150,5 +150,12 @@
         "email": "junior.lima@nextvision.com.br",
         "telefone": "+55 15 98142-6521",
         "telefone2": ""
+    },
+    {
+        "id": 20,
+        "nome": "Letícia Pereira Lima do Carmo",
+        "cargo": "",
+        "email": "leticia@nextvision.com.br",
+        "telefone": "+55 11 958632273"
     }
 ]
